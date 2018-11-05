@@ -1,3 +1,2 @@
-#include <stdio.h>
-#include <iostream>
+#include <c++/iostream>
 #include "func.h"
